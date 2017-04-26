@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node bin/bot.js"
   },
   "author": "Bart Veneman <bartveneman@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "^1.0.2",
-    "sqlite3": "^3.1.8"
+    "slackbots": "0.3.0",
+    "util": "^0.10.3"
   }
 }
