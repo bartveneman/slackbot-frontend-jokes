@@ -1,15 +1,13 @@
 #!/usr/bin/env node
 
-'use strict'
+var CssBot = require('../lib/cssbot');
 
-var CssBot = require('../lib/cssbot')
-
-var TOKEN = process.env.BOT_API_TOKEN
-var NAME = process.env.BOT_NAME
+var TOKEN = process.env.BOT_API_TOKEN;
+var NAME = process.env.BOT_NAME;
 
 var cssbot = new CssBot({
   token: TOKEN,
   name: NAME
-})
+});
 
-cssbot.run()
+cssbot.run();
