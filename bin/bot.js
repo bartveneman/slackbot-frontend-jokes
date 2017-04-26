@@ -2,7 +2,7 @@
 
 var CssBot = require('../lib/cssbot');
 
-var TOKEN = process.env.BOT_API_TOKEN;
+var TOKEN = process.env.BOT_API_KEY;
 var NAME = process.env.BOT_NAME;
 
 var cssbot = new CssBot({
