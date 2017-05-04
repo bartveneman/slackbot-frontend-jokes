@@ -7,5 +7,6 @@ module.exports = [
   "#lego {\n\tdisplay: block;\n}",
   "#ikea {\n\tdisplay: table;\n}",
   "#my-wife {\n\tright: 100%;\n}",
-  ".wilders {\n\talign: right;\n}"
+  ".wilders {\n\talign: right;\n}",
+  ".delorean {\n\tz-index: -1955;\n}"
 ]
