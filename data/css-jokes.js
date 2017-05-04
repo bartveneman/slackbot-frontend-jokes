@@ -9,5 +9,6 @@ module.exports = [
   "#my-wife {\n\tright: 100%;\n}",
   ".wilders {\n\talign: right;\n}",
   ".delorean {\n\tz-index: -1955;\n}",
-  ".red-door {\n\tcolor: black;\n}"
+  ".red-door {\n\tcolor: black;\n}",
+  "Why did the web developer leave the restaurant?\n\tBecause of the table layout.",
 ]
