@@ -6,5 +6,6 @@ module.exports = [
   ".yomama {\n\twidth: 99999999px;\n}",
   "#lego {\n\tdisplay: block;\n}",
   "#ikea {\n\tdisplay: table;\n}",
-  "#my-wife {\n\tright: 100%;\n}"
+  "#my-wife {\n\tright: 100%;\n}",
+  ".wilders {\n\talign: right;\n}"
 ]
