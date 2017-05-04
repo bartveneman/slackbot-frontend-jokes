@@ -8,5 +8,6 @@ module.exports = [
   "#ikea {\n\tdisplay: table;\n}",
   "#my-wife {\n\tright: 100%;\n}",
   ".wilders {\n\talign: right;\n}",
-  ".delorean {\n\tz-index: -1955;\n}"
+  ".delorean {\n\tz-index: -1955;\n}",
+  ".red-door {\n\tcolor: black;\n}"
 ]
