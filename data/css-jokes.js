@@ -31,4 +31,8 @@ module.exports = [
   ".lord-of-the-rings .hobbit {\n\theight: 50%;\n}",
   ".lord-of-the-rings .hobbit #foot {\n\twidth: 200%;\n}",
   ".rip {\n\tbottom: -6ft;\n}",
+  ".ghost {\n\tcolor:white;\n\topacity: 0.1;\n}",
+  "#moses > .sea {\n\tcolum-count: 2;\n}",
+  "#mario.mushroom{\n\ttransform: scale(200%)\n}",
+  "#rap-artist{\n\tword-spacing: 0;\n}",
 ]
